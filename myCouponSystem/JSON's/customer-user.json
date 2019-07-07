@@ -1,0 +1,44 @@
+{
+	"customerName" : "Yarden Davis",
+	"user" : {
+		"userName" : "YardenD",
+		"userClientType" : "CUSTOMER",
+		"userPassword" : "233yd"
+	}
+},
+
+{
+	"customerName" : "Inbar Porat",
+	"user" : {
+		"userName" : "Poratie",
+		"userClientType" : "CUSTOMER",
+		"userPassword" : "in2912p"
+	}
+},
+
+{
+	"customerName" : "Gal Kinhi",
+	"user" : {
+		"userName" : "GalKK",
+		"userClientType" : "CUSTOMER",
+		"userPassword" : "Gal5k3"
+	}
+},
+
+{
+	"customerName" : "Kinert Liani",
+	"user" : {
+		"userName" : "KLiani",
+		"userClientType" : "CUSTOMER",
+		"userPassword" : "Kinlini88"
+	}
+},
+
+{
+	"customerName" : "Yaara Raz",
+	"user" : {
+		"userName" : "Yaararoli",
+		"userClientType" : "CUSTOMER",
+		"userPassword" : "Y42zyz"
+	}
+}

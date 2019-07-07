@@ -1,0 +1,11 @@
+{
+	"userName" : "admin",
+	"userClientType" : "ADMIN",
+	"userPassword" : "1234"
+},
+
+{
+	"userName" : "adminosh",
+	"userClientType" : "ADMIN",
+	"userPassword" : "5678"
+}

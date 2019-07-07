@@ -1,0 +1,43 @@
+{
+	"couponTitle" : "Carbon Grip",
+	"startDate" : "2019-07-10",
+	"endDate" : "2019-07-25",
+	"unitsInStock" : 50,
+	"categoryType" : "SPORTS",
+	"couponMessage" : "Liquid Chalk – Extra Dry, Is now on sale for 15.99$",
+    "couponPrice" : 15.99,
+    "couponImage" : "Coupon2.png"
+},
+
+{
+	"couponTitle" : "Planet Camping",
+	"startDate" : "2019-05-01",
+	"endDate" : "2019-06-01",
+	"unitsInStock" : 50,
+	"categoryType" : "CAMPING",
+	"couponMessage" : "All Sleeping bags are now on sale for 39.99$",
+    "couponPrice" : 39.99,
+    "couponImage" : "coupon1.png"
+},
+
+{
+	"couponTitle" : "Hamburg",
+	"startDate" : "2019-08-01",
+	"endDate" : "2019-08-20",
+	"unitsInStock" : 100,
+	"categoryType" : "RESTURANS",
+	"couponMessage" : "Classic Hamburger is now on sale for 2.99$",
+    "couponPrice" : 2.99,
+    "couponImage" : "Coupon3.png"
+},
+
+{
+	"couponTitle" : "Fly-high",
+	"startDate" : "2019-07-01",
+	"endDate" : "2019-08-01",
+	"unitsInStock" : 30,
+	"categoryType" : "TRAVELLING",
+	"couponMessage" : "Vacation in Barcelona 2019/08/04-2019/08/08 Sun. – Thu. for 339$",
+    "couponPrice" : 339,
+    "couponImage" : "Coupon4.png"
+}

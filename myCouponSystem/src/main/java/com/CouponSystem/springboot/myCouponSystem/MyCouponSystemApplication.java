@@ -13,6 +13,9 @@ public class MyCouponSystemApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(MyCouponSystemApplication.class, args);
+		
+		
+		System.out.println();
 	}
 
 	@Bean
@@ -25,3 +28,12 @@ public class MyCouponSystemApplication {
 	}
 
 }
+
+
+
+
+
+
+
+
+
